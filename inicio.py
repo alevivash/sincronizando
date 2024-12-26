@@ -1,1 +1,4 @@
-print ("Hola mundo")
+print ("Hola mundo\n")
+
+for i in range(3):
+    print("Hola Mundo")
